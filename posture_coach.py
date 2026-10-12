@@ -21,7 +21,7 @@ import sounddevice as sd
 # ==============================================================================
 # Configuration
 # ==============================================================================
-SARVAM_API_KEY = "sk_gkz1p5n4_mMoJaFW1z08hRSJBVTEemerF"
+SARVAM_API_KEY = "Enter_API_KEY"
 
 TTS_ENDPOINT = "https://api.sarvam.ai/text-to-speech"
 STT_ENDPOINT = "https://api.sarvam.ai/speech-to-text"
